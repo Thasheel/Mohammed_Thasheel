@@ -14,10 +14,10 @@ This repository contains solutions to the screening test for the Full Stack Deve
 4. **Problem-4**: Count of numbers divisible by 1–9 in a given list
 
 ### 📁 File Structure
-- Problem-1.java
-- Problem-2.java
-- Problem-3.java
-- Problem-4.java
+- Problem1.java
+- Problem2.java
+- Problem3.java
+- Problem4.java
 
 ---
 
